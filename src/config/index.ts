@@ -80,8 +80,6 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "ClonTagram",
       summary: "A social network that replicates the features of Instagram",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
     },
   ],
